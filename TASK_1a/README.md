@@ -1,5 +1,7 @@
 TASK 1 (a) - Recommendation based on Aspect Opinion Mining 
 
+## Sentiment_Code_Update.ipynb
+This code will calculate sentiment score for reviews on sentence level and will generate 'output_sent_update.csv' which will be ued as input to other program code.
 
 ## Categorical_sentiment_analysis_part_1a.ipynb:
 
